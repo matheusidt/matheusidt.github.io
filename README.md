@@ -1,6 +1,6 @@
 # Projeto NLW 
 
-![preview](./.github/screenshot_1.png)
+![preview](../Screenshot_1.png)
 
 > Trilha Explorer
 
@@ -16,4 +16,4 @@ Meu primeiro projeto que fiz no evento Next Level Week da RocketSeat.
 
 ##  📲Contato 
 
-matheusidt@gmail.com
+matheusidt19@gmail.com
