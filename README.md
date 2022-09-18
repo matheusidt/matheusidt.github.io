@@ -1,11 +1,12 @@
 # Projeto NLW 
 
-![preview](../Screenshot_1.png)
+![preview](Print.png)
 
 > Trilha Explorer
 
 Meu primeiro projeto que fiz no evento Next Level Week da RocketSeat.
------MEUS JOGOS E STREAMERS QUE EU MAIS CURTO-----
+
+Objetivo: Mostrar quais são os jogos e streamers que eu mais gosto!
 
 [📎Acesse o site aqui](https://matheusidt.github.io/)
 
