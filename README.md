@@ -1,6 +1,6 @@
 # Projeto NLW 
 
-![preview](Print.png)
+![preview](PRINT.png)
 
 > Trilha Explorer
 
